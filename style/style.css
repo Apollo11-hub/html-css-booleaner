@@ -30,7 +30,6 @@ h1{
 }
 
 /* /header */
-
 /* main */
 
 
@@ -44,34 +43,24 @@ h1{
   text-decoration: none;
 }
 
-
-  .img-tim{
-    width: 100%;
-    height: auto;
-    }
-  
-  #timone{
-    width: auto;
-    height: auto;
-  }
-  #timtwo{
-    width: auto;
-    height: auto;
-  }
+#imago{
+  width: 49%;
+  height:500px;
+}
 
   .lista-fonti{
     list-style-type: none;
     padding: 0%;
     margin-top: 0px;
   }
-
+  
   .lorem-text{
     font-weight: bolder;
   }
-
-#highlighter{
-  background-color: yellow;
-}
+  
+  #highlighter{
+    background-color: yellow;
+  }
 
 .ulist{
   padding:1%
@@ -89,10 +78,10 @@ th,td {
   width: 100px;
   overflow: hidden;
   }
-
-.tabh-color{
-  background-color: #20a9e5;
-  color: white;
+  
+  .tabh-color{
+    background-color: #20a9e5;
+    color: white;
 }
 
 .tabb-color{
@@ -110,7 +99,7 @@ th,td {
   }
 
   .imagesetting{
-  
+  display: block;
   color: white;
   font-size: larger;
   font-weight: bolder;
